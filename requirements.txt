@@ -1,4 +1,4 @@
-heroku
+django
 gunicorn
 django-heroku
 coverage
