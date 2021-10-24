@@ -1,6 +1,3 @@
-django
 gunicorn
-django - heroku
-coverage
-coveralls
-pyyaml
+django-heroku
+whitenoise
