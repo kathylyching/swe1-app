@@ -1,6 +1,6 @@
 django
- gunicorn
- django-heroku
- coverage
- coveralls
- pyyaml
+gunicorn
+django - heroku
+coverage
+coveralls
+pyyaml
